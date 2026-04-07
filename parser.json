@@ -1,7 +1,7 @@
 {
-  "url": "https://github.com/tree-sitter-grammars/tree-sitter-hlsl",
   "semver": false,
   "parser_version": "bab9111922d53d43668fabb61869bec51bbcb915",
   "location": null,
-  "lang": "hlsl"
+  "lang": "hlsl",
+  "url": "https://github.com/tree-sitter-grammars/tree-sitter-hlsl"
 }
